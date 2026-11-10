@@ -6,3 +6,6 @@ old_notebooks/
 notes/*.aux
 notes/*.log
 notes/*.out
+.claude/
+notebooks/data/
+notebooks/GalaxyZoo/
